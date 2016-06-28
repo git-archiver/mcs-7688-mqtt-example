@@ -1,9 +1,9 @@
 var mcs = require('mcsjs');
 
 var myApp = mcs.register({
-  deviceId: 'D6FX6mWY',
-  deviceKey: 'ddc980Olze0fjw6E',
-  host: 'mqtt.mcs.mediatek.io',
+  deviceId: 'Input your deviceId',
+  deviceKey: 'Input your deviceKey',
+  host: 'mqtt.mcs.mediatek.com',
   method: 'mqtt',
   port: 1883,
   qos: 0,
